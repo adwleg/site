@@ -1,0 +1,369 @@
+0000.001 (0) Opened log file at time: Wed, 13 Jan 2016 23:39:32 +0000 on http://www.asilolegnano.com
+0000.015 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.45-0+deb7u2 (Linux gliamicidiwinnie.giuseppemiriello.com 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u6 x86_64) MySQL: 5.5.46 Server: Apache/2.2.22 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 48.4M | 49M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.029 (0) Free space on disk containing Updraft's temporary directory: 8333.4 Mb
+0000.046 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.061 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.094 (0) Requesting semaphore lock (fd)
+0000.114 (0) Set semaphore last lock (fd) time to 2016-01-13 23:39:32
+0000.127 (0) Semaphore lock (fd) complete
+0000.171 (0) Backup run: resumption=0, nonce=0f1d5c179b17, begun at=1452728372 (0s ago), job type=backup
+0000.203 (0) Scheduling a resumption (1) after 300 seconds (1452728672) in case this run gets aborted
+0000.252 (0) Checking if we have a zip executable available
+0000.284 (0) Creation of backups of directories: beginning
+0000.330 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0000.678 (0) Total entities for the zip file: 720 directories, 4403 files (0 skipped as non-modified), 59.7 Mb
+0000.705 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.724 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.742 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.756 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.775 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.789 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.7 Mb, 4403 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0001.355 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 600 files added (on-disk size: 2638.8 Kb)
+0001.372 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 700 files added (on-disk size: 2638.8 Kb)
+0001.390 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 800 files added (on-disk size: 2638.8 Kb)
+0001.409 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 900 files added (on-disk size: 2638.8 Kb)
+0001.427 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1000 files added (on-disk size: 2638.8 Kb)
+0001.439 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 Mb, 4403 files batched, 501 (1002) added so far); re-opening (prior size: 2638.8 Kb)
+0002.150 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1100 files added (on-disk size: 6402.4 Kb)
+0002.175 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1200 files added (on-disk size: 6402.4 Kb)
+0002.194 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1300 files added (on-disk size: 6402.4 Kb)
+0002.211 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1400 files added (on-disk size: 6402.4 Kb)
+0002.228 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1500 files added (on-disk size: 6402.4 Kb)
+0002.238 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.6 Mb, 4403 files batched, 501 (1503) added so far); re-opening (prior size: 6402.4 Kb)
+0003.407 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1600 files added (on-disk size: 9925 Kb)
+0003.425 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1700 files added (on-disk size: 9925 Kb)
+0003.450 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1800 files added (on-disk size: 9925 Kb)
+0003.472 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 1900 files added (on-disk size: 9925 Kb)
+0003.493 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2000 files added (on-disk size: 9925 Kb)
+0003.504 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.3 Mb, 4403 files batched, 501 (2004) added so far); re-opening (prior size: 9925 Kb)
+0004.720 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2100 files added (on-disk size: 11791.4 Kb)
+0004.745 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2200 files added (on-disk size: 11791.4 Kb)
+0004.769 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2300 files added (on-disk size: 11791.4 Kb)
+0004.799 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2400 files added (on-disk size: 11791.4 Kb)
+0004.828 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2500 files added (on-disk size: 11791.4 Kb)
+0004.854 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 Mb, 4403 files batched, 501 (2505) added so far); re-opening (prior size: 11791.4 Kb)
+0005.293 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2600 files added (on-disk size: 12872 Kb)
+0005.315 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2700 files added (on-disk size: 12872 Kb)
+0005.339 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2800 files added (on-disk size: 12872 Kb)
+0005.365 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 2900 files added (on-disk size: 12872 Kb)
+0005.390 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3000 files added (on-disk size: 12872 Kb)
+0005.403 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.2 Mb, 4403 files batched, 501 (3006) added so far); re-opening (prior size: 12872 Kb)
+0007.677 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3100 files added (on-disk size: 16600 Kb)
+0007.698 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3200 files added (on-disk size: 16600 Kb)
+0007.720 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3300 files added (on-disk size: 16600 Kb)
+0007.745 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3400 files added (on-disk size: 16600 Kb)
+0007.767 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3500 files added (on-disk size: 16600 Kb)
+0007.779 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 Mb, 4403 files batched, 501 (3507) added so far); re-opening (prior size: 16600 Kb)
+0008.354 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3600 files added (on-disk size: 17644.2 Kb)
+0008.382 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3700 files added (on-disk size: 17644.2 Kb)
+0008.406 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3800 files added (on-disk size: 17644.2 Kb)
+0008.433 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 3900 files added (on-disk size: 17644.2 Kb)
+0008.463 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 4000 files added (on-disk size: 17644.2 Kb)
+0008.475 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 Mb, 4403 files batched, 501 (4008) added so far); re-opening (prior size: 17644.2 Kb)
+0009.208 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 4100 files added (on-disk size: 18950.8 Kb)
+0009.237 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 4200 files added (on-disk size: 18950.8 Kb)
+0009.279 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 4300 files added (on-disk size: 18950.8 Kb)
+0009.308 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip.tmp: 4400 files added (on-disk size: 18950.8 Kb)
+0010.625 (0) Created plugins zip (0) - 21394.6 Kb in 10.3 s (2080.5 Kb/s) (SHA1 checksum: 6864a0590c74d5bced908c60fdceb70d14a87837)
+0010.652 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0010.703 (0) Total entities for the zip file: 97 directories, 531 files (0 skipped as non-modified), 19.8 Mb
+0010.722 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0010.735 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0010.749 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0010.772 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0010.785 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0010.799 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.4 Mb, 531 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0012.277 (0) Created themes zip (0) - 14328.4 Kb in 1.6 s (8890.2 Kb/s) (SHA1 checksum: dcdc769d84b391c1cce952696d5b9c34600be675)
+0012.301 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0012.316 (0) Looking for candidates to back up in: /var/www/gliamicidiwinnie.com/wp-content/uploads
+0012.331 (0) finding files: woocommerce_uploads: adding to list (1)
+0012.342 (0) finding files: 2016: adding to list (2)
+0012.353 (0) finding files: revslider: adding to list (3)
+0012.363 (0) finding files: 2015: adding to list (4)
+0012.374 (0) finding files: wc-logs: adding to list (5)
+0012.388 (0) finding files: js_composer: adding to list (6)
+0012.406 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0012.446 (0) Total entities for the zip file: 21 directories, 531 files (0 skipped as non-modified), 38.8 Mb
+0012.459 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0012.476 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0012.491 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0012.505 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25.2 Mb, 531 files batched, 358 (358) added so far); re-opening (prior size: 0 Kb)
+0014.446 (0) A useful amount of data was added after this amount of zip processing: 2.6 s (normalised: 2.6 s, rate: 9747.7 Kb/s)
+0014.468 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.6450810432434, normalised_time=2.6262618907497, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=59889838)
+0014.498 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip.tmp: 400 files added (on-disk size: 25624.9 Kb)
+0014.512 (0) Zip: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip.tmp: 500 files added (on-disk size: 25624.9 Kb)
+0015.784 (0) Created uploads zip (0) - 39402.1 Kb in 3.4 s (11709.6 Kb/s) (SHA1 checksum: 8ab4ace6d4a00fec213adbd242bb76e6f7188100)
+0015.807 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.822 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql
+0015.834 (0) Looking for candidates to back up in: /var/www/gliamicidiwinnie.com/wp-content
+0015.849 (0) finding files: cache: skipping: excluded by options
+0015.861 (0) finding files: upgrade: skipping: excluded by options
+0015.872 (0) finding files: uploads: skipping: this is the uploads directory
+0015.885 (0) finding files: db.php: adding to list (1)
+0015.894 (0) finding files: envato-backups: skipping: excluded by options (glob)
+0015.906 (0) finding files: advanced-cache.php: adding to list (2)
+0015.918 (0) finding files: index.php: adding to list (3)
+0015.929 (0) finding files: updraft: skipping: this is the updraft directory
+0015.946 (0) finding files: w3tc-config: adding to list (4)
+0015.963 (0) finding files: object-cache.php: adding to list (5)
+0015.980 (0) finding files: themes: skipping: this is the themes directory
+0015.995 (0) finding files: plugins: skipping: this is the plugins directory
+0016.011 (0) finding files: languages: adding to list (6)
+0016.045 (0) Total entities for the zip file: 4 directories, 23 files (0 skipped as non-modified), 1.7 Mb
+0016.312 (0) Created others zip (0) - 510.2 Kb in 0.3 s (1793.5 Kb/s) (SHA1 checksum: fef0902c24b8a3b5bd4e1414a5d62585ad5bb279)
+0016.363 (0) Saving backup status to database (elements: 8)
+0016.393 (0) Beginning creation of database dump (WordPress DB)
+0016.418 (0) Testing: /usr/bin/mysqldump
+0016.459 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0016.513 (0) Table wp_options: Total expected rows (approximate): 186
+0016.572 (0) Table wp_options: Total rows added: 404 in 0.04 seconds
+0016.588 (0) Table wp_options: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_options.table.gz - 145.3 Kb)
+0016.631 (0) Table wp_users: Total expected rows (approximate): 1
+0016.647 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0016.662 (0) Table wp_users: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_users.table.gz - 0.6 Kb)
+0016.704 (0) Table wp_usermeta: Total expected rows (approximate): 36
+0016.718 (0) Table wp_usermeta: Total rows added: 36 in 0.00 seconds
+0016.731 (0) Table wp_usermeta: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_usermeta.table.gz - 1.9 Kb)
+0016.767 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0016.778 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0016.790 (0) Table wp_commentmeta: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0016.844 (0) Table wp_comments: Total expected rows (approximate): 1
+0016.860 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0016.871 (0) Table wp_comments: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_comments.table.gz - 0.7 Kb)
+0016.907 (0) Table wp_links: Total expected rows (approximate): 0
+0016.925 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0016.939 (0) Table wp_links: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_links.table.gz - 0.4 Kb)
+0016.986 (0) Table wp_postmeta: Total expected rows (approximate): 982
+0017.017 (0) Table wp_postmeta: Total rows added: 976 in 0.02 seconds
+0017.034 (0) Table wp_postmeta: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_postmeta.table.gz - 16.3 Kb)
+0017.076 (0) Table wp_posts: Total expected rows (approximate): 741
+0017.162 (0) Table wp_posts: Total rows added: 433 in 0.07 seconds
+0017.177 (0) Table wp_posts: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_posts.table.gz - 70.6 Kb)
+0017.221 (0) Table wp_term_relationships: Total expected rows (approximate): 24
+0017.233 (0) Table wp_term_relationships: Total rows added: 24 in 0.00 seconds
+0017.248 (0) Table wp_term_relationships: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_term_relationships.table.gz - 0.4 Kb)
+0017.279 (0) Table wp_term_taxonomy: Total expected rows (approximate): 7
+0017.289 (0) Table wp_term_taxonomy: Total rows added: 7 in 0.00 seconds
+0017.299 (0) Table wp_term_taxonomy: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_term_taxonomy.table.gz - 0.5 Kb)
+0017.328 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0017.343 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0017.354 (0) Table wp_termmeta: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_termmeta.table.gz - 0.4 Kb)
+0017.393 (0) Table wp_terms: Total expected rows (approximate): 7
+0017.408 (0) Table wp_terms: Total rows added: 7 in 0.00 seconds
+0017.421 (0) Table wp_terms: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_terms.table.gz - 0.5 Kb)
+0017.459 (0) Table wp_WP_SEO_404_links: Total expected rows (approximate): 9
+0017.474 (0) Table wp_WP_SEO_404_links: Total rows added: 9 in 0.00 seconds
+0017.485 (0) Table wp_WP_SEO_404_links: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_404_links.table.gz - 0.7 Kb)
+0017.528 (0) Table wp_WP_SEO_Cache: Total expected rows (approximate): 16
+0017.540 (0) Table wp_WP_SEO_Cache: Total rows added: 16 in 0.00 seconds
+0017.554 (0) Table wp_WP_SEO_Cache: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_Cache.table.gz - 0.4 Kb)
+0017.608 (0) Table wp_WP_SEO_Redirection: Total expected rows (approximate): 1
+0017.627 (0) Table wp_WP_SEO_Redirection: Total rows added: 1 in 0.00 seconds
+0017.642 (0) Table wp_WP_SEO_Redirection: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_Redirection.table.gz - 0.5 Kb)
+0017.693 (0) Table wp_WP_SEO_Redirection_LOG: Total expected rows (approximate): 2
+0017.706 (0) Table wp_WP_SEO_Redirection_LOG: Total rows added: 2 in 0.00 seconds
+0017.718 (0) Table wp_WP_SEO_Redirection_LOG: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_Redirection_LOG.table.gz - 0.5 Kb)
+0017.754 (0) Table wp_revslider_css: Total expected rows (approximate): 110
+0017.780 (0) Table wp_revslider_css: Total rows added: 109 in 0.01 seconds
+0017.798 (0) Table wp_revslider_css: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_css.table.gz - 4.8 Kb)
+0017.843 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0017.854 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0017.865 (0) Table wp_revslider_layer_animations: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_layer_animations.table.gz - 0.3 Kb)
+0017.910 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0017.923 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0017.935 (0) Table wp_revslider_navigations: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_navigations.table.gz - 0.3 Kb)
+0017.972 (0) Table wp_revslider_sliders: Total expected rows (approximate): 2
+0017.990 (0) Table wp_revslider_sliders: Total rows added: 2 in 0.00 seconds
+0018.007 (0) Table wp_revslider_sliders: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_sliders.table.gz - 2.7 Kb)
+0018.051 (0) Table wp_revslider_slides: Total expected rows (approximate): 1
+0018.066 (0) Table wp_revslider_slides: Total rows added: 2 in 0.01 seconds
+0018.081 (0) Table wp_revslider_slides: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_slides.table.gz - 3.5 Kb)
+0018.124 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 2
+0018.138 (0) Table wp_revslider_static_slides: Total rows added: 2 in 0.00 seconds
+0018.152 (0) Table wp_revslider_static_slides: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_static_slides.table.gz - 0.4 Kb)
+0018.196 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0018.211 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0018.224 (0) Table wp_woocommerce_api_keys: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_api_keys.table.gz - 0.4 Kb)
+0018.264 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0018.283 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0018.296 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 Kb)
+0018.340 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0018.357 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0018.372 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 Kb)
+0018.418 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0018.434 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0018.448 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 Kb)
+0018.484 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0018.497 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0018.510 (0) Table wp_woocommerce_order_items: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_order_items.table.gz - 0.3 Kb)
+0018.546 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0018.561 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0018.575 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 Kb)
+0018.613 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0018.626 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0018.642 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 Kb)
+0018.682 (0) Table wp_woocommerce_termmeta: Total expected rows (approximate): 0
+0018.695 (0) Table wp_woocommerce_termmeta: Total rows added: 0 in 0.00 seconds
+0018.707 (0) Table wp_woocommerce_termmeta: finishing file (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_termmeta.table.gz - 0.4 Kb)
+0018.748 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_options.table.gz (1/30): adding to final database dump
+0018.790 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_users.table.gz (2/30): adding to final database dump
+0018.802 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_usermeta.table.gz (3/30): adding to final database dump
+0018.820 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_commentmeta.table.gz (4/30): adding to final database dump
+0018.834 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_comments.table.gz (5/30): adding to final database dump
+0018.844 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_links.table.gz (6/30): adding to final database dump
+0018.858 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_postmeta.table.gz (7/30): adding to final database dump
+0018.876 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_posts.table.gz (8/30): adding to final database dump
+0018.914 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_term_relationships.table.gz (9/30): adding to final database dump
+0018.932 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_term_taxonomy.table.gz (10/30): adding to final database dump
+0018.946 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_termmeta.table.gz (11/30): adding to final database dump
+0018.961 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_terms.table.gz (12/30): adding to final database dump
+0018.975 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_404_links.table.gz (13/30): adding to final database dump
+0018.989 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_Cache.table.gz (14/30): adding to final database dump
+0019.001 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_Redirection.table.gz (15/30): adding to final database dump
+0019.013 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_WP_SEO_Redirection_LOG.table.gz (16/30): adding to final database dump
+0019.025 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_css.table.gz (17/30): adding to final database dump
+0019.043 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_layer_animations.table.gz (18/30): adding to final database dump
+0019.055 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_navigations.table.gz (19/30): adding to final database dump
+0019.071 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_sliders.table.gz (20/30): adding to final database dump
+0019.084 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_slides.table.gz (21/30): adding to final database dump
+0019.099 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_revslider_static_slides.table.gz (22/30): adding to final database dump
+0019.111 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_api_keys.table.gz (23/30): adding to final database dump
+0019.125 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_attribute_taxonomies.table.gz (24/30): adding to final database dump
+0019.136 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (25/30): adding to final database dump
+0019.151 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_order_itemmeta.table.gz (26/30): adding to final database dump
+0019.168 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_order_items.table.gz (27/30): adding to final database dump
+0019.179 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_tax_rate_locations.table.gz (28/30): adding to final database dump
+0019.193 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_tax_rates.table.gz (29/30): adding to final database dump
+0019.204 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db-table-wp_woocommerce_termmeta.table.gz (30/30): adding to final database dump
+0019.216 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz: finished writing out complete database file (224 Kb)
+0019.257 (0) Total database tables backed up: 30 (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz, size: 253867, checksum (SHA1): 50f2408fbc6a94c6b7a95bae67df9a256b478889)
+0019.289 (0) Saving backup history
+0019.332 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.348 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.364 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.378 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.391 (0) backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.420 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0019.458 (0) Cloud backup selection (1/1): dropbox (last)
+0019.471 (0) Beginning dispatch of backup to remote (dropbox)
+0019.480 (0) Dropbox: begin cloud upload
+0019.498 (0) Dropbox: access gained
+0020.431 (0) Dropbox quota usage: normal=785.2 Mb, shared=3538.3 Mb, total=5376 Mb, available=1052.6 Mb
+0020.452 (0) Dropbox: Attempt to upload: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip to: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip
+0024.021 (0) Dropbox chunked upload: 4.8 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 1048576)
+0026.791 (0) Dropbox chunked upload: 9.6 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 2097152)
+0029.417 (0) Dropbox chunked upload: 14.4 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 3145728)
+0032.639 (0) Dropbox chunked upload: 19.1 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 4194304)
+0035.046 (0) Dropbox chunked upload: 23.9 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 5242880)
+0037.723 (0) Dropbox chunked upload: 28.7 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 6291456)
+0040.434 (0) Dropbox chunked upload: 33.5 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 7340032)
+0044.647 (0) Dropbox chunked upload: 38.3 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 8388608)
+0047.066 (0) Dropbox chunked upload: 43.1 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 9437184)
+0050.501 (0) Dropbox chunked upload: 47.9 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 10485760)
+0053.279 (0) Dropbox chunked upload: 52.6 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 11534336)
+0057.202 (0) Dropbox chunked upload: 57.4 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 12582912)
+0059.822 (0) Dropbox chunked upload: 62.2 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 13631488)
+0062.526 (0) Dropbox chunked upload: 67 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 14680064)
+0065.317 (0) Dropbox chunked upload: 71.8 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 15728640)
+0068.461 (0) Dropbox chunked upload: 76.6 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 16777216)
+0070.773 (0) Dropbox chunked upload: 81.4 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 17825792)
+0073.300 (0) Dropbox chunked upload: 86.2 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 18874368)
+0076.402 (0) Dropbox chunked upload: 90.9 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 19922944)
+0080.055 (0) Dropbox chunked upload: 95.7 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 20971520)
+0082.243 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAjVy8Q1xJKlH0Gw, 21908039)
+0083.909 (0) Recording as successfully uploaded: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip (f93286d1f659042d9da61c25594e0f42)
+0083.977 (0) Deleting local file: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip: OK
+0083.993 (0) Dropbox: File upload success (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-plugins.zip): 21394 Kb in 63s (336 Kb/s)
+0084.873 (0) Dropbox quota usage: normal=806.1 Mb, shared=3538.3 Mb, total=5376 Mb, available=1031.7 Mb
+0084.888 (0) Dropbox: Attempt to upload: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip to: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip
+0087.182 (0) Dropbox chunked upload: 7.1 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 1048576)
+0089.672 (0) Dropbox chunked upload: 14.3 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 2097152)
+0092.392 (0) Dropbox chunked upload: 21.4 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 3145728)
+0095.969 (0) Dropbox chunked upload: 28.6 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 4194304)
+0098.410 (0) Dropbox chunked upload: 35.7 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 5242880)
+0101.037 (0) Dropbox chunked upload: 42.9 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 6291456)
+0103.688 (0) Dropbox chunked upload: 50 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 7340032)
+0107.619 (0) Dropbox chunked upload: 57.2 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 8388608)
+0110.319 (0) Dropbox chunked upload: 64.3 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 9437184)
+0112.822 (0) Dropbox chunked upload: 71.5 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 10485760)
+0115.644 (0) Dropbox chunked upload: 78.6 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 11534336)
+0118.992 (0) Dropbox chunked upload: 85.8 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 12582912)
+0121.385 (0) Dropbox chunked upload: 92.9 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 13631488)
+0124.416 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAjV3RZDer9FCSNw, 14672276)
+0126.332 (0) Recording as successfully uploaded: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip (de33b67da71b0b3424dfd2cacf1e43a5)
+0126.377 (0) Deleting local file: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip: OK
+0126.387 (0) Dropbox: File upload success (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-themes.zip): 14328 Kb in 41s (345 Kb/s)
+0127.263 (0) Dropbox quota usage: normal=820.1 Mb, shared=3538.3 Mb, total=5376 Mb, available=1017.7 Mb
+0127.277 (0) Dropbox: Attempt to upload: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip to: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip
+0129.805 (0) Dropbox chunked upload: 2.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 1048576)
+0132.412 (0) Dropbox chunked upload: 5.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 2097152)
+0135.049 (0) Dropbox chunked upload: 7.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 3145728)
+0138.836 (0) Dropbox chunked upload: 10.4 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 4194304)
+0141.227 (0) Dropbox chunked upload: 13 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 5242880)
+0143.891 (0) Dropbox chunked upload: 15.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 6291456)
+0146.627 (0) Dropbox chunked upload: 18.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 7340032)
+0150.131 (0) Dropbox chunked upload: 20.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 8388608)
+0152.460 (0) Dropbox chunked upload: 23.4 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 9437184)
+0155.063 (0) Dropbox chunked upload: 26 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 10485760)
+0157.908 (0) Dropbox chunked upload: 28.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 11534336)
+0161.445 (0) Dropbox chunked upload: 31.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 12582912)
+0163.807 (0) Dropbox chunked upload: 33.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 13631488)
+0166.492 (0) Dropbox chunked upload: 36.4 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 14680064)
+0169.996 (0) Dropbox chunked upload: 39 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 15728640)
+0173.255 (0) Dropbox chunked upload: 41.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 16777216)
+0175.515 (0) Dropbox chunked upload: 44.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 17825792)
+0178.265 (0) Dropbox chunked upload: 46.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 18874368)
+0180.995 (0) Dropbox chunked upload: 49.4 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 19922944)
+0184.410 (0) Dropbox chunked upload: 52 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 20971520)
+0186.711 (0) Dropbox chunked upload: 54.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 22020096)
+0189.326 (0) Dropbox chunked upload: 57.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 23068672)
+0191.859 (0) Dropbox chunked upload: 59.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 24117248)
+0195.399 (0) Dropbox chunked upload: 62.4 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 25165824)
+0197.735 (0) Dropbox chunked upload: 65 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 26214400)
+0200.331 (0) Dropbox chunked upload: 67.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 27262976)
+0203.503 (0) Dropbox chunked upload: 70.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 28311552)
+0206.775 (0) Dropbox chunked upload: 72.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 29360128)
+0209.429 (0) Dropbox chunked upload: 75.4 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 30408704)
+0211.920 (0) Dropbox chunked upload: 78 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 31457280)
+0214.710 (0) Dropbox chunked upload: 80.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 32505856)
+0218.663 (0) Dropbox chunked upload: 83.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 33554432)
+0221.154 (0) Dropbox chunked upload: 85.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 34603008)
+0223.665 (0) Dropbox chunked upload: 88.4 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 35651584)
+0226.386 (0) Dropbox chunked upload: 91 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 36700160)
+0229.751 (0) Dropbox chunked upload: 93.6 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 37748736)
+0232.120 (0) Dropbox chunked upload: 96.2 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 38797312)
+0234.523 (0) Dropbox chunked upload: 98.8 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 39845888)
+0236.896 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAjV7MFnxlPc87-g, 40347701)
+0238.767 (0) Recording as successfully uploaded: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip (daf6d247a4f2b2114ecb0510e6c1d8a3)
+0238.821 (0) Deleting local file: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip: OK
+0238.835 (0) Dropbox: File upload success (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-uploads.zip): 39402 Kb in 111s (353 Kb/s)
+0240.187 (0) Dropbox quota usage: normal=858.5 Mb, shared=3538.3 Mb, total=5376 Mb, available=979.2 Mb
+0240.204 (0) Dropbox: Attempt to upload: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-others.zip to: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-others.zip
+0242.231 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAjV8FzFTKV-aeRg, 522436)
+0244.418 (0) Recording as successfully uploaded: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-others.zip (e044c3ff834c247020297a81f2106a2d)
+0244.464 (0) Deleting local file: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-others.zip: OK
+0244.475 (0) Dropbox: File upload success (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-others.zip): 510 Kb in 4s (119 Kb/s)
+0245.478 (0) Dropbox quota usage: normal=859 Mb, shared=3538.3 Mb, total=5376 Mb, available=978.7 Mb
+0245.495 (0) Dropbox: Attempt to upload: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz to: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz
+0247.098 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAjWD80KfaTalQaA, 253867)
+0248.540 (0) Recording as successfully uploaded: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz (bbbffadc88c29ccc5a4681b48a6cd335)
+0248.584 (0) Deleting local file: backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz: OK
+0248.601 (0) Dropbox: File upload success (backup_2016-01-13-2339_Asilo_Nido_Gli_Amici_di_Winnie_a_0f1d5c179b17-db.gz): 247 Kb in 3s (79 Kb/s)
+0248.626 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=15
+0248.640 (0) Number of backup sets in history: 3
+0248.652 (0) Examining backup set with datestamp: 1452728372 (Jan 13 2016 23:39:32)
+0248.664 (0) 1452728372: this backup set remains non-empty (1/1); will retain in history
+0248.677 (0) Examining backup set with datestamp: 1452124484 (Jan 06 2016 23:54:44)
+0248.690 (0) 1452124484: this backup set remains non-empty (1/1); will retain in history
+0248.701 (0) Examining backup set with datestamp: 1451515975 (Dec 30 2015 22:52:55)
+0248.713 (0) 1451515975: this backup set remains non-empty (1/1); will retain in history
+0248.725 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0248.764 (0) Resume backup (0f1d5c179b17, 0): finish run
+0248.792 (0) Decremented the semaphore (fd) by 1
+0248.809 (0) Semaphore (fd) unlocked
+0248.826 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0248.864 (0) The backup apparently succeeded and is now complete
+0248.876 (0) Fetching RSS news feed
+0248.962 (0) Fetched RSS news feed; result is a: SimplePie
+0248.981 (0) Sending email ('File e database (Backup completo)') report (attachments: 0, size: 0 Kb) to: gliam...
+0249.093 (0) Il backup apparentemente è riuscito ed ora è completo

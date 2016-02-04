@@ -1,0 +1,297 @@
+body{
+    font-family: "Proxima Nova";
+    color: #888;
+    line-height:1.6 ;
+    -webkit-font-smoothing: antialiased; //this is very important to make font weight on mac good
+}
+@media (min-width: 1200px) {
+    .container {
+        width: 1200px;
+    }
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+
+h4 {
+    font-size: 24px;
+}
+
+h5 {
+    font-size: 22px;
+}
+
+h6 {
+    font-size: 19px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    color: #1f1f1f;
+}
+header .header-top{
+    height: 500px;
+    background-color: #52beb7;
+}
+.header-top .container {
+    position: relative;
+    height: 100%;
+}
+
+.header-top-right {
+    position: absolute !important;
+    bottom: 0;
+    right: 0;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.header-top-left {
+    display: table;
+    height: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+.header-top-left-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+.site-description {
+    color: #FFFFFF;
+    font-size: 42px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+.site-description p {
+    margin-bottom: 0;
+    line-height: 42px;
+}
+
+header .header-bottom  {
+    background-color: #d93f63;
+}
+header .header-bottom .container {
+    height: 140px;
+    display: table;
+}
+
+header .header-bottom .choose-demo {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+header .header-bottom h4 {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin: 0;
+}
+
+/*
+===========================================
+Main
+===========================================
+*/
+main {
+    margin-top: 80px;
+}
+.screen {
+    text-align: center;
+    margin-bottom: 90px;
+}
+.screen-image-wrapper {
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    border: solid 4px #eee;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    margin: 0 -4px 30px -4px;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.screen-image {
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-position: center 0%;
+    -webkit-transition: all 3s ease-out;
+    -moz-transition: all 3s ease-out;
+    -ms-transition: all 3s ease-out;
+    -o-transition: all 3s ease-out;
+    transition: all 3s ease-out;
+
+}
+
+
+.screen-image-wrapper:hover {
+    border-color: #e26381;
+}
+.screen-image-wrapper:hover .screen-image {
+    background-position: center 100%;
+}
+
+
+.button {
+    background: #8ed8d5;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 0 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+.button:hover {
+    text-decoration: none;
+    background: #d93f63;
+    color: #FFFFFF;
+}
+
+.footer-top-wrapper {
+    background-image: url('../images/footer.jpg');
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.footer-top-wrapper:before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    content: "";
+    background: rgba(217,63,99,0.95);
+    z-index: 0;
+}
+
+.button-2 {
+    background: transparent;
+    border: 2px solid #FFFFFF;
+}
+.button-2:hover {
+    background: #8ed8d5;
+
+}
+
+
+
+.footer-top-wrapper h4 {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.footer-top {
+    height: 250px;
+    width: 100%;
+    display: table;
+    position: relative;
+    z-index: 1;
+}
+
+.footer-top-inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+.footer-copyright {
+    height: 100px;
+    display: table;
+    width: 100%;
+}
+.footer-copyright .footer-copyright-inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.copyright-text {
+    font-size: 15px;
+    color: #888888;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .site-description {
+        font-size: 36px;
+    }
+    .site-description p {
+        line-height: 36px;
+    }
+    header .header-top {
+        height: 400px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .site-description {
+        font-size: 28px;
+    }
+    .site-description p {
+        line-height: 28px;
+    }
+    header .header-top {
+        height: 300px;
+    }
+}
+
+@media (max-width: 767px) {
+    header .header-top {
+        height: auto;
+    }
+    .header-top-left {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .header-top-right {
+        position: relative !important;
+    }
+}
+@media (max-width: 480px) {
+    .site-description {
+        font-size: 28px;
+    }
+    .site-description p {
+        line-height: 28px;
+    }
+}
+
+@media (max-width: 320px) {
+    .site-description {
+        font-size: 26px;
+    }
+    .site-description p {
+        line-height: 26px;
+    }
+}
